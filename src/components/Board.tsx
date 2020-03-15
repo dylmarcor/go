@@ -1,7 +1,9 @@
 import React from 'react';
 import './Board.css';
 
-const Board = (props) => {
+interface MyProps{};
+
+const Board = (props: MyProps) => {
 
     return (
         <div>

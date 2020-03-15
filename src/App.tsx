@@ -1,10 +1,13 @@
-import React, {Component} from 'react';
+import React, {Component, Props} from 'react';
 import ReactDOM from 'react-dom';
 import Board from  './components/Board';
 
-class App extends Component {
-    constructor (props) {
-        super(props)
+interface MyProps{};
+interface MyState{};
+
+class App extends Component<MyProps, MyState> {
+    public constructor (props: MyProps) {
+        super(props as any)
         this.state = {
             user: {},
         }
