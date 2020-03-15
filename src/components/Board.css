@@ -50,7 +50,34 @@ div {
     position: relative;
 }
 
-#A0 {
+#g-row {
+    height: 50px;
+    float:left;
+    position: relative;
+}
+
+#h-row {
+    height: 50px;
+    float:left;
+    position: relative;
+}
+
+#i-row {
+    height: 50px;
+    float:left;
+    position: relative;
+}
+
+.board-tile {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+    border: .2px solid black;
+}
+
+/* #A0 {
     width:50px;
     height: 50px;
     background-color: black;
@@ -481,3 +508,219 @@ div {
     float: left;
     position: relative;
 }
+
+#G0 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#G1 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#G2 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#G3 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#G4 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#G5 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#G6 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#G7 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#G8 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#H0 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#H1 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#H2 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#H3 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#H4 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#H5 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#H6 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#H7 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#H8 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#F0 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#I1 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#I2 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#I3 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#I4 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#I5 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#I6 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#I7 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#I8 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+} */
