@@ -40,6 +40,39 @@ const Board = (props: MyProps) => {
                 <div id="C7"></div>
                 <div id="C8"></div>
             </div>
+            <div id="d-row">
+                <div id="D0"></div>
+                <div id="D1"></div>
+                <div id="D2"></div>
+                <div id="D3"></div>
+                <div id="D4"></div>
+                <div id="D5"></div>
+                <div id="D6"></div>
+                <div id="D7"></div>
+                <div id="D8"></div>
+            </div>
+            <div id="e-row">
+                <div id="E0"></div>
+                <div id="E1"></div>
+                <div id="E2"></div>
+                <div id="E3"></div>
+                <div id="E4"></div>
+                <div id="E5"></div>
+                <div id="E6"></div>
+                <div id="E7"></div>
+                <div id="E8"></div>
+            </div>
+            <div id="f-row">
+                <div id="F0"></div>
+                <div id="F1"></div>
+                <div id="F2"></div>
+                <div id="F3"></div>
+                <div id="F4"></div>
+                <div id="F5"></div>
+                <div id="F6"></div>
+                <div id="F7"></div>
+                <div id="F8"></div>
+            </div>
         </div>
     )
 }

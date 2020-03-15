@@ -32,6 +32,24 @@ div {
     position: relative;
 }
 
+#d-row {
+    height: 50px;
+    float:left;
+    position: relative;
+}
+
+#e-row {
+    height: 50px;
+    float:left;
+    position: relative;
+}
+
+#f-row {
+    height: 50px;
+    float:left;
+    position: relative;
+}
+
 #A0 {
     width:50px;
     height: 50px;
@@ -244,6 +262,222 @@ div {
     width:50px;
     height: 50px;
     background-color: black;
+    float: left;
+    position: relative;
+}
+
+#D0 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#D1 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#D2 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#D3 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#D4 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#D5 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#D6 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#D7 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#D8 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#E0 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#E1 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#E2 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#E3 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#E4 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#E5 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#E6 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#E7 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#E8 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#F0 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#F1 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#F2 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#F3 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#F4 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#F5 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#F6 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#F7 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#F8 {
+    width:50px;
+    height: 50px;
+    background-color: white;
     float: left;
     position: relative;
 }
