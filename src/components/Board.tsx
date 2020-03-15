@@ -6,7 +6,7 @@ interface MyProps{};
 const Board = (props: MyProps) => {
 
     return (
-        <div>
+        <div id="game-board">
             <div id="a-row">
                 <div id="A0" className="board-tile"></div>
                 <div id="A1" className="board-tile"></div>

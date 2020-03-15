@@ -1,4 +1,4 @@
-div {
+#game-board {
 	width: 450px;
 	height: 450px;
     background-color: chartreuse;
@@ -74,7 +74,6 @@ div {
     background-color: white;
     float: left;
     position: relative;
-    border: .2px solid black;
 }
 
 /* #A0 {
