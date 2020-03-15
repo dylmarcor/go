@@ -33,5 +33,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "game of go",
+  "main": "index.js",
+  "repository": "https://github.com/dylmarcor/go.git",
+  "author": "Dylmarcor <dylancorbett@icloud.com>",
+  "license": "MIT"
 }
