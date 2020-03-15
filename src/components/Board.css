@@ -1,6 +1,6 @@
 div {
-	width: 300px;
-	height: 300px;
+	width: 450px;
+	height: 450px;
     background-color: chartreuse;
     text-align: center;
     font-size: 2.3em;
@@ -14,73 +14,235 @@ div {
 	margin: auto;
 }
 
+#a-row {
+    height: 50px;
+    float:left;
+    position: relative;
+}
+
+#b-row {
+    height: 50px;
+    float:left;
+    position: relative;
+}
+
+#c-row {
+    height: 50px;
+    float:left;
+    position: relative;
+}
+
 #A0 {
-    width:100px;
-    height: 100px;
+    width:50px;
+    height: 50px;
     background-color: black;
     float: left;
     position: relative;
 }
 
 #A1 {
-    width:100px;
-    height: 100px;
+    width:50px;
+    height: 50px;
     background-color: white;
     float: left;
     position: relative;
 }
 
 #A2 {
-    width:100px;
-    height: 100px;
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#A3 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#A4 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#A5 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#A6 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#A7 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#A8 {
+    width:50px;
+    height: 50px;
     background-color: black;
     float: left;
     position: relative;
 }
 
 #B0 {
-    width:100px;
-    height: 100px;
+    width:50px;
+    height: 50px;
     background-color: white;
     float: left;
     position: relative;
 }
 
 #B1 {
-    width:100px;
-    height: 100px;
+    width:50px;
+    height: 50px;
     background-color: black;
     float: left;
     position: relative;
 }
 
 #B2 {
-    width:100px;
-    height: 100px;
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#B3 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#B4 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#B5 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#B6 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#B7 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#B8 {
+    width:50px;
+    height: 50px;
     background-color: white;
     float: left;
     position: relative;
 }
 
 #C0 {
-    width:100px;
-    height: 100px;
+    width:50px;
+    height: 50px;
     background-color: black;
     float: left;
     position: relative;
 }
 
 #C1 {
-    width:100px;
-    height: 100px;
+    width:50px;
+    height: 50px;
     background-color: white;
     float: left;
     position: relative;
 }
 
 #C2 {
-    width:100px;
-    height: 100px;
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#C3 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#C4 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#C5 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#C6 {
+    width:50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    position: relative;
+}
+
+#C7 {
+    width:50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+#C8 {
+    width:50px;
+    height: 50px;
     background-color: black;
     float: left;
     position: relative;
